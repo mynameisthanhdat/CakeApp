@@ -24,5 +24,3 @@ Download this beautiful free React Native starter kit, featuring a recipes app, 
 - Compatible with Expo
 - Highly modularized codebase
 
-
-Coded with 💖💖💖 by <a href="https://www.instamobile.io/">Instamobile</a> and <a href="https://www.instakotlin.com/">Instakotlin</a>.
